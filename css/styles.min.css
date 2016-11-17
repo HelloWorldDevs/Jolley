@@ -26491,8 +26491,9 @@ h4.modal-title {
   font-weight: 400 !important;
   margin-bottom: 15px; }
 
-.device-sm #services h4 {
-  font-size: 20px; }
+.device-md #services h4, .device-md #services h4 {
+  font-size:20px;
+}
 
 .device-lg #services .col-sm-3 p:nth-child(3) {
   min-height: 140px;
