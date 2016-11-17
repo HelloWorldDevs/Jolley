@@ -6701,6 +6701,9 @@ body.stretched #header.full-header .container {
   line-height: 100%;
   margin-right: 40px; }
 
+#logo:hover {
+  cursor:pointer;
+}
 #header.full-header #logo {
   padding-right: 30px;
   margin-right: 30px; }

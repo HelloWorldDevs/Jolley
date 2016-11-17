@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f237f302-3e3a-490b-aaf8-0a68ae6f3cee" name="Default" comment="" />
+    <list default="true" id="f237f302-3e3a-490b-aaf8-0a68ae6f3cee" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.min.css" afterPath="$PROJECT_DIR$/css/styles.min.css" />
+    </list>
     <ignored path="Jolley-HW.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,8 +26,8 @@
       <file leaf-file-name="styles.min.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="26493" column="48" selection-start-line="26493" selection-start-column="48" selection-end-line="26493" selection-end-column="48" />
+            <state relative-caret-position="358">
+              <caret line="6704" column="17" selection-start-line="6704" selection-start-column="17" selection-end-line="6704" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -34,7 +36,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
+            <state relative-caret-position="-584">
               <caret line="455" column="117" selection-start-line="455" selection-start-column="117" selection-end-line="455" selection-end-column="117" />
               <folding />
             </state>
@@ -62,8 +64,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
-    <option name="y" value="46" />
+    <option name="x" value="377" />
+    <option name="y" value="287" />
     <option name="width" value="1368" />
     <option name="height" value="873" />
   </component>
@@ -146,15 +148,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1479415547046</updated>
-      <workItem from="1479415549322" duration="1410000" />
+      <workItem from="1479415549322" duration="1951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1410000" />
+    <option name="totallyTimeSpent" value="1951000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="46" width="1368" height="873" extended-state="0" />
+    <frame x="377" y="287" width="1368" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -194,7 +196,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
+        <state relative-caret-position="-584">
           <caret line="455" column="117" selection-start-line="455" selection-start-column="117" selection-end-line="455" selection-end-column="117" />
           <folding />
         </state>
@@ -202,8 +204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="26493" column="48" selection-start-line="26493" selection-start-column="48" selection-end-line="26493" selection-end-column="48" />
+        <state relative-caret-position="358">
+          <caret line="6704" column="17" selection-start-line="6704" selection-start-column="17" selection-end-line="6704" selection-end-column="17" />
           <folding />
         </state>
       </provider>
