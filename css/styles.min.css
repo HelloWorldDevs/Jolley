@@ -25796,17 +25796,22 @@ Copyright (c) 2014 Daniel Eden
   line-height: 22px; }
 
 .p-2, .p-2 a {
-  font-size: 23px;
+  font-size: 26px;
   font-weight: 700;
   color: #E17009;
   margin-bottom: 15px !important; }
 
+
+
 .p-4, .p-4 a {
   color: #34260A;
-  font-size: 20px;
+  font-size: 26px;
   font-weight: 700;
   margin-bottom: 5px !important; }
 
+.p-4 a:hover, .p-2 a:hover {
+  text-decoration:none !important;
+}
 #header .button {
   text-align: center;
   border-radius: 18px !important;
@@ -25814,8 +25819,8 @@ Copyright (c) 2014 Daniel Eden
   padding-right: 0px;
   width: 85%;
   padding-bottom: 70px;
-  padding-top: 15px;
-  line-height: 30px;
+  padding-top: 18px;
+  line-height: 25px;
   margin-bottom: 20px; }
 
 .side-header #header {
@@ -26256,7 +26261,16 @@ h4.modal-title {
     padding: 20px; }
   #slide-2 .slider-caption.slider-caption-right {
     background-color: rgba(255, 255, 255, 0.4);
-    padding: 20px; } }
+    padding: 20px; }
+  #slide-1 {
+    background-position:0%;
+  }
+  #slide-1 .slider-caption.slider-caption-right {
+    top:500px !important;
+    left:2%;
+    width:450px;
+  }
+}
 
 #slide-2 h2 {
   font-size: 46px;
@@ -26738,3 +26752,35 @@ p {
 
 .device-xxs section h2 {
   line-height: 50px !important; }
+
+
+@media (min-width:992px) {
+.side-header #header .container {
+  width:200px !important;
+  padding-right:0 !important;
+}
+
+.side-header #header {
+  width:200px !important;
+}
+
+.side-header #header-wrap {
+  width: 200px !important;
+}
+
+  .side-header:not(.open-header) #wrapper {
+    margin:0 0 0 200px !important;
+  }
+}
+
+.phone-slug .new-hotline a:hover, #contact .text-phone-1 a:hover, #contact .text-phone-2 a:hover {
+  text-decoration:none !important;
+}
+
+#slider > div > a:hover {
+  color:#222;
+}
+
+#logo > div.hidden-sm.hidden-xs.hidden-xxs {
+  margin-left:-30px;
+}
