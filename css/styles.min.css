@@ -26342,7 +26342,7 @@ h4.modal-title {
 
 #meet-the-doctors .img-wrap {
   background: #D8D8D8;
-  width: 313px;
+  width: 100%;
   height: 324px;
   border: 1px solid #333; }
 
@@ -26783,4 +26783,8 @@ p {
 
 #logo > div.hidden-sm.hidden-xs.hidden-xxs {
   margin-left:-30px;
+}
+
+.phone-slug .old-hotline a:hover {
+  text-decoration:none !important;
 }
