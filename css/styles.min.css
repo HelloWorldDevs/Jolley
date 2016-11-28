@@ -26515,14 +26515,9 @@ h4.modal-title {
 }
 
 .device-lg #services .col-sm-3 p:nth-child(3) {
-  min-height: 140px;
   margin-bottom: 10px; }
 
-.device-md #services .col-sm-3 p:nth-child(3) {
-  min-height: 180px; }
 
-.device-sm #services .col-sm-3 p:nth-child(3) {
-  min-height: 165px; }
 
 #services p {
   font-size: 16px;
@@ -26787,4 +26782,28 @@ p {
 
 .phone-slug .old-hotline a:hover {
   text-decoration:none !important;
+}
+
+.device-sm #services h4 {
+  font-size:20px;
+}
+
+.device-xs #services p, .device-xxs #services p {
+  margin-bottom:20px;
+}
+
+.device-xs #services .read-more, .device-xxs #services .read-more {
+  margin-bottom:45px;
+}
+
+#contact-form-overlay-mini > div.img-wrap.center > a > img {
+  width:215px;
+}
+
+.device-xs .vertical-middle, .device-xxs .vertical-middle {
+  padding-top:0 !important;
+}
+
+.device-lg #contact-form-overlay-mini .row, .device-sm #contact-form-overlay-mini .row, .device-md #contact-form-overlay-mini .row {
+  padding-bottom:20px !important;
 }
