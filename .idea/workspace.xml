@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f237f302-3e3a-490b-aaf8-0a68ae6f3cee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.min.css" afterPath="$PROJECT_DIR$/css/styles.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Jolley-HW.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="styles.min.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
@@ -40,12 +40,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7035">
-              <caret line="469" column="97" selection-start-line="469" selection-start-column="97" selection-end-line="469" selection-end-column="97" />
-              <folding />
+            <state relative-caret-position="286">
+              <caret line="134" column="133" selection-start-line="134" selection-start-column="133" selection-end-line="134" selection-end-column="133" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.min.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -227,12 +230,12 @@
       <updated>1479415547046</updated>
       <workItem from="1479415549322" duration="2545000" />
       <workItem from="1480361429711" duration="4693000" />
-      <workItem from="1480373192677" duration="241000" />
+      <workItem from="1480373192677" duration="346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7479000" />
+    <option name="totallyTimeSpent" value="7584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-71" y="53" width="1368" height="873" extended-state="0" />
@@ -290,7 +293,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7035">
           <caret line="469" column="97" selection-start-line="469" selection-start-column="97" selection-end-line="469" selection-end-column="97" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -311,7 +317,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6825">
           <caret line="455" column="117" selection-start-line="455" selection-start-column="117" selection-end-line="455" selection-end-column="117" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -333,14 +342,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7035">
-          <caret line="469" column="97" selection-start-line="469" selection-start-column="97" selection-end-line="469" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/slide1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -351,6 +352,17 @@
         <state relative-caret-position="418">
           <caret line="8008" column="4" selection-start-line="8008" selection-start-column="4" selection-end-line="8008" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="134" column="133" selection-start-line="134" selection-start-column="133" selection-end-line="134" selection-end-column="133" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
