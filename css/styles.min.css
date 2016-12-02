@@ -26809,3 +26809,64 @@ p {
 .device-md #logo img, .device-sm #logo img, .device-xxs #logo img {
   padding-bottom:10px;
 }
+
+#meet-the-doctors .owl-nav {
+  display:inherit;
+}
+
+
+
+#meet-the-doctors .owl-prev {
+  left:-18px;
+  opacity:1 !important;
+}
+
+#meet-the-doctors .owl-next {
+  right:-18px;
+  opacity:1 !important;
+  color:#222 !important;
+}
+
+.owl-carousel .owl-nav [class*=owl-]:hover {
+  background:rgba(255,255,255, .8) !important;
+  color:#222 !important;
+
+}
+.device-xxs #meet-the-doctors .owl-next, .device-xxs #meet-the-doctors .owl-prev {
+  top:40%;
+}
+
+.device-xs #meet-the-doctors .owl-next, .device-xs #meet-the-doctors .owl-prev {
+  top:35%;
+}
+
+.device-sm #meet-the-doctors .owl-next, .device-sm #meet-the-doctors .owl-prev {
+  top:34%;
+}
+
+.device-md #meet-the-doctors .owl-next, .device-md #meet-the-doctors .owl-prev {
+  top:34%;
+}
+
+.device-lg #meet-the-doctors .owl-next, .device-lg #meet-the-doctors .owl-prev {
+  top:39%;
+}
+#meet-the-doctors .portfolio-overlay a:hover {
+  color:#FFF;
+  background: none !important;
+}
+
+#meet-the-doctors .portfolio-overlay a {
+  color:#FFF;
+  background:none !important;
+  font-size:36px;
+}
+
+#meet-the-doctors .owl-carousel .owl-nav [class*=owl-] {
+  color:#222 !important;
+}
+
+
+#meet-the-doctors #oc-portfolio h5 {
+  color:#4E4C48;
+}
