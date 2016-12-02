@@ -26810,3 +26810,7 @@ p {
 .device-lg #contact-form-overlay-mini .row, .device-sm #contact-form-overlay-mini .row, .device-md #contact-form-overlay-mini .row {
   padding-bottom:20px !important;
 }
+
+.device-md #logo img, .device-sm #logo img, .device-xxs #logo img {
+  padding-bottom:10px;
+}
